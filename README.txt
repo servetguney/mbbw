@@ -12,6 +12,10 @@ Requirements:
 		b) Sample Config Files & Install Script	
 		https://github.com/mybb/mybb/tarball/master
 		https://github.com/servetguney/mbbw/tarball/master
+		     1- config.php
+		     2- install.sj
+		     3- settings.php
+		     4- mysqldump.sql
 
 How to Deploy:
 	1- Login to AWS Console
